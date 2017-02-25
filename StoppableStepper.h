@@ -1,7 +1,6 @@
 #ifndef STOPPABLE_STEPPER_H_
 #define STOPPABLE_STEPPER_H_
 
-#include "Sensor.h"
 #include <Stepper.h>
 
 class StoppableStepper : public Stepper{
